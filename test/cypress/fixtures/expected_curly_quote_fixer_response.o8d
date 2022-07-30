@@ -1,0 +1,71 @@
+Fixed Objective Sets:
+    - Ties of Blood
+    - A Wookiee's Journey
+    - Impersonating a Deity
+
+fixed_curly_quote.o8d:
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="d5cf89e5-1984-4873-8ae0-f06eea411bb3">
+    <section name="Affiliation">
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000216">Smugglers and Spies</card>
+    </section>
+    <section name="Command Deck">
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000064">Luke Skywalker</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000067">Twi'lek Loyalist</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000066">Jedi Lightsaber</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000065">Trust Your Feelings</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000068">Dagobah Training Grounds</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000145">Obi-Wan Kenobi</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000147">Jedi in Hiding</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000003">Jedi Mind Trick</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000146">Our Most Desperate Hour</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000148">Heat of Battle</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000205">Ewok Scout</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000206">Ewok Scout</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000207">Log Trap</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000208">Yub Yub!</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000209">Yub Yub!</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000356">Chewbacca</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000357">Wookiee Warrior</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000358">Wookiee Warrior</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000359">Let the Wookiee Win</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000360">Heat of Battle</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000374">Millennium Falcon</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000375">Cloud City Operative</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000376">Cloud City Guest Quarters</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000377">Bamboozle</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000378">Twist of Fate</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000674">Dash Rendar</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000675">Shifty Lookout</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000676">Holding All the Cards</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000677">Holding All the Cards</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000678">Target of Opportunity</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000758">Leia Organa</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000759">Ewok Companion</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000760">Native Support</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000761">Leia's Command</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000762">Protection</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000770">Lowhhrick</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000771">Loyal Wookiee</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000772">Heart of a Wookiee</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000773">Faithful Companion</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000774">Echoes of the Force</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000794">C-3PO</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000795">Ewok Lookout</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000796">Ewok Lookout</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000797">Rash Action</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000798">Seeds of Decay</card>
+    </section>
+    <section name="Objective Deck">
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000063">A Hero's Journey</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000144">Forgotten Heroes</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000204">Tribal Support</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000355">Wookiee Life Debt</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000373">Asteroid Sanctuary</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000673">Against All Odds</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000757">Ties of Blood</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000769">A Wookiee's Journey</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000793">Impersonating a Deity</card>
+    </section>
+</deck>

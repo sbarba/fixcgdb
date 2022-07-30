@@ -1,0 +1,29 @@
+body {
+  margin-top: 1rem;
+  font-family: sans-serif;
+} 
+
+label {
+  background-color: #eee;
+  color: #000;
+  padding: 0.5rem;
+  font-family: sans-serif;
+  cursor: pointer;
+  border:0.1em solid #aaa;
+}
+
+label:active {
+  background-color:#CCC;
+}
+
+textarea {
+  width: 47%;
+  height: 43em;
+  resize: none;
+  font-size:0.85em;
+  font-family: sans-serif;
+}
+
+#upload-area {
+  margin-right: 1rem;
+}

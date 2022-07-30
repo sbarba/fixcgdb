@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <link rel='stylesheet' type='text/css' href='fixcgdb.css'>
+    <script src='fixcgdb.js'></script>
+    <title>CardGameDB -> OCTGN</title>
+  </head>
+
+  <body>
+    <p>
+      <input id="upload-button" data-test="upload-button" type='file' accept='.o8d' onchange='upload()' hidden/>
+      <label for="upload-button" data-test="upload-label">Choose .o8d file</label>
+    </p>
+    <textarea id="upload-area" data-test="upload-area" disabled></textarea>
+    <textarea id="download-area" data-test="download-area" disabled>Fixed objective sets will appear here.</textarea>
+      
+    <small>
+      <p>Makes SWLCG decks built on cardgamedb work on OCTGN.</p>
+      <p>Updated through Promise of Power.</p>
+      <p>Problem? Message <i>stevepop</i> on http://www.cardgamedb.com/.</p>
+    </small>
+  </body>
+</html>

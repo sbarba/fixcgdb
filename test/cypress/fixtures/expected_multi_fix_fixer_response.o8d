@@ -1,0 +1,58 @@
+Fixed Objective Sets:
+    - A Hero's Journey
+    - A Deep Commitment
+
+fixed_multi_fix.o8d:
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="d5cf89e5-1984-4873-8ae0-f06eea411bb3">
+    <section name="Affiliation">
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000216">Smugglers and Spies</card>
+    </section>
+    <section name="Command Deck">
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000064">Luke Skywalker</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000067">Twi'lek Loyalist</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000066">Jedi Lightsaber</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000065">Trust Your Feelings</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000068">Dagobah Training Grounds</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000156">C-3PO</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000159">Guardian of Peace</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000158">Guardian of Peace</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000157">Lightsaber Deflection</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000160">Twist of Fate</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000374">Millennium Falcon</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000375">Cloud City Operative</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000376">Cloud City Guest Quarters</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000377">Bamboozle</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000378">Twist of Fate</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000548">Obi-Wan Kenobi</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000549">Shistavanen Wolfman</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000550">Shistavanen Wolfman</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000551">Force Cleansing</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000552">Supporting Fire</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000710">Hyperspace Marauder</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000711">Hired Hands</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000712">Hired Hands</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000713">Deneba Refueling Station</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000714">Make Your Own Luck</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000728">Yoda</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000729">Dagobah Nudj</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000730">Dagobah Training Grounds</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000731">Yoda, You Seek Yoda</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000732">Seeds of Decay</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000788">Ferus Olin</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000789">ET-74 Communications Droid</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000790">ET-74 Communications Droid</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000791">Asteroid Base</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000792">Force Barrier</card>
+    </section>
+    <section name="Objective Deck">
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000063">A Hero's Journey</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000155">The Secret of Yavin 4</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000373">Asteroid Sanctuary</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000547">Watchers in the Wasteland</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000709">Along the Gamor Run</card>
+        <card qty="2" id="ff4fb461-8060-457a-9c16-000000000727">May the Force Be With You</card>
+        <card qty="1" id="ff4fb461-8060-457a-9c16-000000000787">A Deep Commitment</card>
+    </section>
+</deck>

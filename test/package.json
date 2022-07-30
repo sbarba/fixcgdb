@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^10.3.0",
+    "cypress-file-upload": "^5.0.8",
+    "jssoup": "^0.0.15"
+  },
+  "scripts": {
+    "open": "./node_modules/.bin/cypress open",
+    "run": "./node_modules/.bin/cypress run"
+  }
+}

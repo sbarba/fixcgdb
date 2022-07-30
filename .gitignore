@@ -1,0 +1,12 @@
+.DS_Store
+downloaded.o8d
+set.xml
+test_files/
+*.pyc
+config.py
+/files/
+node_modules
+videos/
+screenshots/
+downloads/
+tmp/

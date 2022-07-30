@@ -1,0 +1,33 @@
+bad_objective_name.o8d:
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><deck game="d5cf89e5-1984-4873-8ae0-f06eea411bb3"><section name="Affiliation"><card qty="1" id="ff4fb461-8060-457a-9c16-000000000095">Imperial Navy</card></section><section name="Command Deck">undefined<card qty="2" id="ff4fb461-8060-457a-9c16-000000000050">&quot;Backstabber&quot;</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000048">TIE Fighter</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000047">TIE Bomber</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000051">Tallon Roll</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000049">Death from Above</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000035">Devastator</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000036">Imperial Officer</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000037">Control Room</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000038">Defense Upgrade</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000039">Heat of Battle</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000041">TIE Attack Squadron</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000042">TIE Fighter</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000043">Tallon Roll</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000044">Death from Above</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000045">Twist of Fate</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000284">Death Squadron Star Destroyer</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000285">Death Squadron Star Destroyer</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000286">Fleet Navigator</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000287">Death Squadron Command</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000288">Admiral's Orders</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000812">Escort Carrier</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000813">TIE Scout</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000814">TIE Scout</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000815">Precision Flying</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000816">Precision Flying</card>
+</section><section name="Objective Deck"><card qty="2" id="ff4fb461-8060-457a-9c16-000000000046">Kuat Reinforcements</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000034">Death and Despayre</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000040">Defense Protocol</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000283">Deploy the Fleet</card>
+<card qty="2" id="ff4fb461-8060-457a-9c16-000000000811">漢字Superior Numbers</card>
+</section></deck>
